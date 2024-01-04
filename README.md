@@ -1,9 +1,14 @@
 # 💫 Sobre Mi:
-Hola! Mi nombre es Elias Pucheta y soy un desarrolador Full Stack con experiencia en React, Express, MongoDB, PostgreSQL, JavaScript y otras mas.
+¡Hola! Soy Elias Pucheta, me interesa mucho el desarrollo y la tecnología
 
-Me gusta la tecnologia en general y saber como funcionan las cosas, ver como funciona por detrás y tratar de entenderlo, siempre tratando de mantenerme al dia con las ultimas tecnologias y tendencias.
+💻 Soy un Desarrollador con habilidades Full Stack y mi experiencia se centra en tecnologías como React, Redux, Express, Sequelize y PostgreSQL. Mi formación incluyó intenso programa en un bootcamp, proporcionándome una sólida base para enfrentar desafíos y generar soluciones innovadoras.
 
-Mi meta es convertirme en un desarrollador profesional, formar parte de un equipo para poder aportar mis conocimientos y tambien seguir aprendiendo.
+🚀 Habilidades y Tecnologías:
+Frontend: React, Redux, HTML, CSS
+Backend: Node.js, Express, Sequelize, PostgreSQL
+Herramientas: Git, GitHub, VSCode
+
+Estoy entusiasmado por explorar nuevas oportunidades, tecnologías y colaborar en proyectos emocionantes 💥. Estoy disponible para discutir proyectos, oportunidades laborales y cualquier forma de colaboración que pueda surgir.
 
 ## 🌐 Conctato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elias-pucheta) 
