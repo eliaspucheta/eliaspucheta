@@ -5,7 +5,9 @@
 
 🚀 Habilidades y Tecnologías:
 Frontend: React, Redux, HTML, CSS
+
 Backend: Node.js, Express, Sequelize, PostgreSQL
+
 Herramientas: Git, GitHub, VSCode
 
 Estoy entusiasmado por explorar nuevas oportunidades, tecnologías y colaborar en proyectos emocionantes 💥. Estoy disponible para discutir proyectos, oportunidades laborales y cualquier forma de colaboración que pueda surgir.
