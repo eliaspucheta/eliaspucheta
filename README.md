@@ -4,6 +4,7 @@
 💻 Soy un Desarrollador con habilidades Full Stack y mi experiencia se centra en tecnologías como React, Redux, Express, Sequelize y PostgreSQL. Mi formación incluyó intenso programa en un bootcamp, proporcionándome una sólida base para enfrentar desafíos y generar soluciones innovadoras.
 
 🚀 Habilidades y Tecnologías:
+
 Frontend: React, Redux, HTML, CSS
 
 Backend: Node.js, Express, Sequelize, PostgreSQL
